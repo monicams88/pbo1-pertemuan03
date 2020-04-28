@@ -15,7 +15,7 @@ public class Switch {
             case 'C':
                 System.out.println("Mhs   : \"ulun turun tarus, tugas ulun gawi jua\"");
                 System.out.println("Dosen  : \"Tapi ujian bisa aja lah menjawab?\"");
-                System.out.println("Mhs   : \"ngalih banar pa ai\"");
+                System.out.println("Mhs   : \"ngalih banar pa ai,\"");
                 break;
             default:
                 System.out.println("Mhs   : \"ulun turun tarus, tugas ulun gawi jua\"");
